@@ -26,7 +26,7 @@ while should_contniue:
 
     restart = input("Type 'yes' If You Want To Go Again. Otherwise, Type 'no'.\n").lower()
     if restart == "no":
-        should_contniue == False
+        should_contniue = False
         print("GoodBoy")
 
 # -----------------------------------------------------------------------------------------
